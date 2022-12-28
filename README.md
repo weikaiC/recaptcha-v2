@@ -1,2 +1,3 @@
 ## built up
-**download chromedriver from https://chromedriver.chromium.org/downloads**
+**Download chromedriver from https://chromedriver.chromium.org/downloads**
+`pip install -r requirements.txt`
